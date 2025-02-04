@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Навчання\\UniStay\\UniStay\\UniStay\\UniStay.csproj",
-      "projectName": "UniStay",
-      "projectPath": "F:\\Навчання\\UniStay\\UniStay\\UniStay\\UniStay.csproj",
+      "projectUniqueName": "F:\\Навчання\\UniStay\\UniStay\\Infrastructure\\Infrastructure.csproj",
+      "projectName": "Infrastructure",
+      "projectPath": "F:\\Навчання\\UniStay\\UniStay\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Ackerman\\.nuget\\packages\\",
-      "outputPath": "F:\\Навчання\\UniStay\\UniStay\\UniStay\\obj\\",
+      "outputPath": "F:\\Навчання\\UniStay\\UniStay\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ackerman\\AppData\\Roaming\\NuGet\\NuGet.Config",
