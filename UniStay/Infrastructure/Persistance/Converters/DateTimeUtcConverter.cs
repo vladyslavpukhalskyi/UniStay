@@ -1,6 +1,7 @@
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+
 namespace Infrastructure.Persistance.Converters;
 
-public class DateTimeUtcConverter
-{
-    
-}
+public class DateTimeUtcConverter() : ValueConverter<DateTime, DateTime>(
+    x => x.ToUniversalTime(),
+    x => x.Kind == DateTimeKind.Unspecified ? DateTime.SpecifyKind(x, DateTimeKind.Utc) : x.ToUniversalTime());

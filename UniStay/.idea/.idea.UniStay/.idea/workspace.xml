@@ -12,13 +12,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9df65a2c-274b-44e0-825f-560ab3f08bc9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/AmenitiesConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/AmenitiesConfiguration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/FavoritesConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/FavoritesConfiguration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/ListingImagesConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/ListingImagesConfiguration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/ListingsConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/ListingsConfiguration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/MessagesConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/MessagesConfiguration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/ReviewsConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/ReviewsConfiguration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/UsersConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Persistance/Configurations/UsersConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UniStay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UniStay/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application/ConfigureApplication.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/obj/Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/obj/Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/Application.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Domain.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net8.0/Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/Persistance/ConfigurePersistance.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Persistance/ConfigurePersistance.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/Persistance/Converters/DateTimeUtcConverter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Persistance/Converters/DateTimeUtcConverter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/net8.0/.msCoverageSourceRootsMapping_Infrastructure" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/net8.0/.msCoverageSourceRootsMapping_Infrastructure" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net8.0/Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net8.0/Infrastructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UniStay/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UniStay/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +73,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "branch2",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -159,7 +186,7 @@
       <workItem from="1738676736832" duration="2280000" />
       <workItem from="1738751834346" duration="2518000" />
       <workItem from="1738755331057" duration="14729000" />
-      <workItem from="1738940662231" duration="2615000" />
+      <workItem from="1738940662231" duration="4158000" />
     </task>
     <servers />
   </component>
