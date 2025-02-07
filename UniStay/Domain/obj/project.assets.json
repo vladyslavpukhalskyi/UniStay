@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Acer\\.nuget\\packages\\": {}
+    "C:\\Users\\Ackerman\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\3 курс\\2 семестр\\UniStay\\UniStay\\Domain\\Domain.csproj",
+      "projectUniqueName": "F:\\Навчання\\UniStay\\UniStay\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\3 курс\\2 семестр\\UniStay\\UniStay\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\3 курс\\2 семестр\\UniStay\\UniStay\\Domain\\obj\\",
+      "projectPath": "F:\\Навчання\\UniStay\\UniStay\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\Ackerman\\.nuget\\packages\\",
+      "outputPath": "F:\\Навчання\\UniStay\\UniStay\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ackerman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

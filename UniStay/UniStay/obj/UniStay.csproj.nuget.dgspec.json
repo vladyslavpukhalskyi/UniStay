@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\3 курс\\2 семестр\\UniStay\\UniStay\\UniStay\\UniStay.csproj": {}
+    "F:\\Навчання\\UniStay\\UniStay\\UniStay\\UniStay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\3 курс\\2 семестр\\UniStay\\UniStay\\UniStay\\UniStay.csproj": {
+    "F:\\Навчання\\UniStay\\UniStay\\UniStay\\UniStay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\3 курс\\2 семестр\\UniStay\\UniStay\\UniStay\\UniStay.csproj",
+        "projectUniqueName": "F:\\Навчання\\UniStay\\UniStay\\UniStay\\UniStay.csproj",
         "projectName": "UniStay",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\3 курс\\2 семестр\\UniStay\\UniStay\\UniStay\\UniStay.csproj",
-        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\3 курс\\2 семестр\\UniStay\\UniStay\\UniStay\\obj\\",
+        "projectPath": "F:\\Навчання\\UniStay\\UniStay\\UniStay\\UniStay.csproj",
+        "packagesPath": "C:\\Users\\Ackerman\\.nuget\\packages\\",
+        "outputPath": "F:\\Навчання\\UniStay\\UniStay\\UniStay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ackerman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

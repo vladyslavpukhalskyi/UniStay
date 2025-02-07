@@ -1,6 +1,12 @@
-namespace Infrastructure.Persistance.Repositories;
+using Infrastructure.Persistance;
+using Microsoft.EntityFrameworkCore;
 
-public class ApplicationDbContextInitialiser
+namespace Infrastructure.Persistence;
+
+public class ApplicationDbContextInitialiser(ApplicationDbContext context)
 {
-    
+    public async Task InitializeAsync()
+    {
+        await context.Database.MigrateAsync();
+    }
 }
