@@ -2,6 +2,7 @@ using Domain.Users;
 using Domain.Amenities;
 using System;
 using System.Collections.Generic;
+using Domain.Favorites;
 using Domain.Reviews;
 using Domain.ListingImages;  // Import the ListingImages namespace
 
@@ -16,7 +17,6 @@ namespace Domain.Listings
         public float Price { get; private set; }
         public ListingEnums.ListingType Type { get; private set; }
         public UserId UserId { get; private set; }
-        
         public User? User { get; }
         public List<ListingEnums.CommunalService> CommunalServices { get; private set; } = new();
         public ListingEnums.OwnershipType Owners { get; private set; }
@@ -27,6 +27,8 @@ namespace Domain.Listings
         
         // Add a collection of ListingImages to the Listing class
         public List<ListingImage> ListingImages { get; private set; } = new();
+        
+        public List<Favorite> Favorites { get; private set; } = new();
 
         private Listing(ListingId id, string title, string description, string address, float price, ListingEnums.ListingType type,
                         UserId userId, List<ListingEnums.CommunalService> communalServices, ListingEnums.OwnershipType owners, ListingEnums.NeighbourType neighbours,
@@ -114,6 +116,22 @@ namespace Domain.Listings
             if (ListingImages.Contains(listingImage))
             {
                 ListingImages.Remove(listingImage);
+            }
+        }
+        
+        public void AddFavorite(Favorite favorite)
+        {
+            if (!Favorites.Contains(favorite))
+            {
+                Favorites.Add(favorite);
+            }
+        }
+
+        public void RemoveFavorite(Favorite favorite)
+        {
+            if (Favorites.Contains(favorite))
+            {
+                Favorites.Remove(favorite);
             }
         }
     }

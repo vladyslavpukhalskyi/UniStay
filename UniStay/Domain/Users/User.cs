@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using Domain.Favorites;
+using Domain.Listings;
 using Domain.Reviews;
 using Domain.Messages;
 
@@ -20,6 +21,8 @@ namespace Domain.Users
 
         // Навігаційна властивість для зв'язку багато-до-багатьох
         public List<Favorite> Favorites { get; private set; } = new();
+        
+        public List<Listing> Listings { get; private set; } = new();
 
         // Навігаційна властивість для зв'язку один-до-багатьох (один користувач має багато відгуків)
         public List<Review> Reviews { get; private set; } = new();
@@ -91,6 +94,23 @@ namespace Domain.Users
             if (Reviews.Contains(review))
             {
                 Reviews.Remove(review);
+            }
+        }
+        
+        public void AddListing(Listing listing)
+        {
+            if (!Listings.Contains(listing))
+            {
+                Listings.Add(listing);
+            }
+        }
+
+        // Видалення відгуку
+        public void RemoveListing(Listing listing)
+        {
+            if (Listings.Contains(listing))
+            {
+                Listings.Remove(listing);
             }
         }
 
